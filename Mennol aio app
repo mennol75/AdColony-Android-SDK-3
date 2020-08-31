@@ -1,0 +1,6 @@
+dependencies {
+  /** 
+   * Any other dependencies your module has are placed in this dependency configuration
+   */
+  implementation 'com.adcolony:sdk:4.1.3'
+}
